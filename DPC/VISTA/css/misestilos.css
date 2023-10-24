@@ -1,0 +1,43 @@
+¿body{
+	background-color:#000000 !important;
+}
+.micontainer{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.caja img {
+
+	height: 150px;
+	width: 150px;
+}
+.espacio{
+	margin-top: 300 px;
+}
+.barra{
+	background-color:#E3C0FA;
+	font-style: #000000;
+}
+.letra{
+	color: #000000 !important;
+    font-size: 35px;
+}
+.cuadro:hover{
+	border: 2px #000 solid;
+}
+.alpha { color: $purple; }
+.beta {
+  color: $yellow-300;
+  background-color: $indigo-900;
+}
+ 
+.carousel {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+}
+.carousel-item {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
